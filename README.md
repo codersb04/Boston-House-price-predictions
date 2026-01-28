@@ -1,7 +1,7 @@
 # Boston-House-price-predictions
 ## Task: 
 Predicting the price of the houses in Boston City based on the features.</br>
-This comes under supervised learning as we have given provided labelled dataset.
+This comes under supervised learning as we have given labelled dataset.
 The problem is a regression problem where the machine needs to predict the outcome in the form of a number, i.e., house price.
 ## Dataset:
 The Boston Housing Dataset is derived from information collected by the U.S. Census Service concerning housing in Boston MA. The following describes the dataset columns: </br></br>
